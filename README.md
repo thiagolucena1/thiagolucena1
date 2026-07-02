@@ -1,18 +1,18 @@
-<img width="720" height="272" alt="image" src="https://github.com/user-attachments/assets/26e5f073-bfe6-44d7-b5df-bf3c3a185c28" />
 
 ## 👋 Olá, eu sou o Thiago!
 
 > [!NOTE]
-> **Desenvolvedor .NET | React | Inteligência Artificial Aplicada**
+> **Desenvolvedor .NET | React | Engenharia de IA Aplicada**
 
-Sou desenvolvedor com experiência prática no desenvolvimento de soluções robustas para órgãos governamentais (como a **Secretaria da Fazenda/IPTU**) e em projetos autônomos (Freelancer). Meu foco atual é unir a solidez do ecossistema backend da Microsoft com o dinamismo do ecossistema Frontend e a inovação da IA.
+Sou desenvolvedor com experiência prática na construção de soluções robustas para órgãos governamentais (como a **Secretaria da Fazenda/IPTU**) e em projetos autônomos (Freelancer). Meu foco atual é unir a solidez do ecossistema .NET e React à revolução da Inteligência Artificial, especializando-me na integração e consumo de Grandes Modelos de Linguagem (LLMs).
 
 ### 🧠 No que me destaco:
-* **Backend de Alta Performance:** Experiência com arquitetura de dados usando `NHibernate`, criação e otimização de `Stored Procedures` complexas e manipulação eficiente de bancos de dados.
-* **Processamento Assíncrono:** Domínio na criação e sustentação de `Background Jobs` para automação e tarefas em segundo plano.
-* **Fullstack & Inovação:** Construção de interfaces modernas com `React` e integração de soluções inteligentes utilizando IA.
+* **Engenharia & Integração de IA:** Experiência prática trabalhando com APIs da **OpenAI (GPT)**, ecossistema **Google Gemini** e deploy/orquestração de modelos open-source inovadores, como o **Qwen**.
+* **Backend de Alta Performance:** Arquitetura de dados usando `NHibernate`, criação e otimização de `Stored Procedures` complexas e manipulação eficiente de bancos de dados relacioanais.
+* **Processamento Assíncrono:** Domínio na criação e sustentação de `Background Jobs` para automação e tarefas pesadas em segundo plano.
+* **Fullstack Inteligente:** Construção de interfaces modernas com `React` integradas diretamente a fluxos de IA para entregar experiências preditivas aos usuários.
 
-
+---
 ### 🛠️ Minha Caixa de Ferramentas
 
 > [!NOTE]
