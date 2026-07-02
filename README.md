@@ -1,13 +1,16 @@
-# 👨‍🦰 Thiago Lucena
 
-## Me chamo Thiago, o meu foco é atual é atuar como Desenvolvedor .NET + React + Aplicado com IA. 
-
-Tenho experiência atuando como desenvolvedor para orgãos governamentais como a Fazenda, e projetos freelancer. 
-
-### 🛠️ Minha Caixa de Ferramentas
+## 👋 Olá, eu sou o Thiago!
 
 > [!NOTE]
-> Tecnologias e ferramentas que utilizo no meu dia a dia de desenvolvimento backend e frontend.
+> **Desenvolvedor .NET | React | Inteligência Artificial Aplicada**
+
+Sou desenvolvedor com experiência prática no desenvolvimento de soluções robustas para órgãos governamentais (como a **Secretaria da Fazenda/IPTU**) e em projetos autônomos (Freelancer). Meu foco atual é unir a solidez do ecossistema backend da Microsoft com o dinamismo do ecossistema Frontend e a inovação da IA.
+
+### 🧠 No que me destaco:
+* **Backend de Alta Performance:** Experiência com arquitetura de dados usando `NHibernate`, criação e otimização de `Stored Procedures` complexas e manipulação eficiente de bancos de dados.
+* **Processamento Assíncrono:** Domínio na criação e sustentação de `Background Jobs` para automação e tarefas em segundo plano.
+* **Fullstack & Inovação:** Construção de interfaces modernas com `React` e integração de soluções inteligentes utilizando IA.
+
 
 ### 🛠️ Minha Caixa de Ferramentas
 
