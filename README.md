@@ -1,3 +1,4 @@
+<img width="720" height="272" alt="image" src="https://github.com/user-attachments/assets/26e5f073-bfe6-44d7-b5df-bf3c3a185c28" />
 
 ## 👋 Olá, eu sou o Thiago!
 
