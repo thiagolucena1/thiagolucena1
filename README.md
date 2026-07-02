@@ -2,15 +2,27 @@
 ## 👋 Olá, eu sou o Thiago!
 
 > [!NOTE]
-> **Desenvolvedor .NET | React | Engenharia de IA Aplicada**
+> **Desenvolvedor Fullstack (.NET + React) | Especialista em Engenharia de IA Aplicada**
 
-Sou desenvolvedor com experiência prática na construção de soluções robustas para órgãos governamentais (como a **Secretaria da Fazenda/IPTU**) e em projetos autônomos (Freelancer). Meu foco atual é unir a solidez do ecossistema .NET e React à revolução da Inteligência Artificial, especializando-me na integração e consumo de Grandes Modelos de Linguagem (LLMs).
+Sou um desenvolvedor independente e analítico com experiência prática na construção de sistemas críticos para órgãos governamentais (como a **Secretaria da Fazenda/IPTU**) e em soluções autônomas. Minha abordagem de engenharia equilibra a solidez da arquitetura de software tradicional com a vanguarda tecnológica da Inteligência Artificial.
 
-### 🧠 No que me destaco:
-* **Engenharia & Integração de IA:** Experiência prática trabalhando com APIs da **OpenAI (GPT)**, ecossistema **Google Gemini** e deploy/orquestração de modelos open-source inovadores, como o **Qwen**.
-* **Backend de Alta Performance:** Arquitetura de dados usando `NHibernate`, criação e otimização de `Stored Procedures` complexas e manipulação eficiente de bancos de dados relacioanais.
-* **Processamento Assíncrono:** Domínio na criação e sustentação de `Background Jobs` para automação e tarefas pesadas em segundo plano.
-* **Fullstack Inteligente:** Construção de interfaces modernas com `React` integradas diretamente a fluxos de IA para entregar experiências preditivas aos usuários.
+---
+
+### 🛡️ Engenharia de Software Autônoma (Backend, Dados & Sistemas Legados)
+*Minha base técnica é sólida, garantindo que eu gerencie arquiteturas eficientes de forma totalmente independente:*
+* **Manutenção e Evolução de Sistemas Legados:** Experiência prática na sustentação, refatoração e modernização de bases de código legadas, garantindo a continuidade de softwares robustos sem impactar a operação.
+* **Persistência & Queries Complexas:** Domínio completo no mapeamento de dados com `NHibernate` e na otimização de banco de dados por meio de `Stored Procedures` de alta performance.
+* **Processamento de Missão Crítica:** Criação, sustentação e monitoramento autônomo de `Background Jobs` para fluxos assíncronos e processamentos pesados em segundo plano.
+
+### 🎨 Interfaces Modernas & Engenharia Frontend
+*Desenvolvimento de experiências fluidas focadas na usabilidade:*
+* **Aplicações Web:** Construção de interfaces dinâmicas, componentizadas e escaláveis utilizando `React`, `TypeScript` e `JavaScript`.
+* **Consumo de APIs Estáveis:** Arquitetura frontend desacoplada do backend, pronta para consumir microsserviços e APIs REST.
+
+### 🧠 Integração de IA & Modelos Avançados (Camada de Inteligência)
+*Não sou apenas um usuário de IA, eu as integro diretamente aos produtos como engenheiro:*
+* **Criação de Interfaces Aplicadas com IA:** Desenvolvimento de componentes no Frontend (`React`) que conversam em tempo real com fluxos preditivos, agentes e assistentes virtuais.
+* **Orquestração de LLMs:** Experiência prática consumindo e integrando APIs proprietárias (como **OpenAI GPT** e **Google Gemini**) e configurando modelos de código aberto de última geração, como o **Qwen**.
 
 ---
 ### 🛠️ Minha Caixa de Ferramentas
