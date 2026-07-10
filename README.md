@@ -19,10 +19,6 @@ Sou um desenvolvedor independente e analítico com experiência prática na cons
 * **Aplicações Web:** Construção de interfaces dinâmicas, componentizadas e escaláveis utilizando `React`, `TypeScript` e `JavaScript`.
 * **Consumo de APIs Estáveis:** Arquitetura frontend desacoplada do backend, pronta para consumir microsserviços e APIs REST.
 
-### 🧠 Integração de IA & Modelos Avançados (Camada de Inteligência)
-*Não sou apenas um usuário de IA, eu as integro diretamente aos produtos como engenheiro:*
-* **Criação de Interfaces Aplicadas com IA:** Desenvolvimento de componentes no Frontend (`React`) que conversam em tempo real com fluxos preditivos, agentes e assistentes virtuais.
-* **Orquestração de LLMs:** Experiência prática consumindo e integrando APIs proprietárias (como **OpenAI GPT** e **Google Gemini**) e configurando modelos de código aberto de última geração, como o **Qwen**.
 
 ---
 ### 🛠️ Minha Caixa de Ferramentas
